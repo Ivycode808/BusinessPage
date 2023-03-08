@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Doctrine</title><g id="Doctrine"><g id="_Group_" data-name="&lt;Group&gt;"><path id="_Path_" data-name="&lt;Path&gt;" d="M18,9h0L10.34,1.16A2.25,2.25,0,0,0,7.16,4.34L9.7,6.82A8.49,8.49,0,1,0,18,9Z" style="fill:none;stroke:#303c42;stroke-linecap:round;stroke-linejoin:round"/><path id="_Path_2" data-name="&lt;Path&gt;" d="M8,13.5h4.5l-2-2a1.41,1.41,0,0,1,0-2h0a1.41,1.41,0,0,1,2,0l4.65,4.65a1.2,1.2,0,0,1,0,1.69L12.5,20.5a1.41,1.41,0,0,1-2,0h0a1.41,1.41,0,0,1,0-2l2-2H8A1.5,1.5,0,0,1,6.5,15h0A1.5,1.5,0,0,1,8,13.5Z" style="fill:none;stroke:#303c42;stroke-linecap:round;stroke-linejoin:round"/></g></g>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="social; media; social media; logo; doctrine" dc:description="social; media; social media; logo; doctrine" dc:publisher="Iconscout" dc:date="2017-02-21" dc:format="image/svg+xml" dc:language="en">
+				<dc:creator>
+					<rdf:Bag>
+						<rdf:li>Alpár - Etele Méder</rdf:li>
+					</rdf:Bag>
+				</dc:creator>
+			</rdf:Description>
+		</rdf:RDF>
+    </metadata></svg>

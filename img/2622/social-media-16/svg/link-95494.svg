@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Line</title><g id="Line"><g id="_Group_" data-name="&lt;Group&gt;"><path id="_Path_" data-name="&lt;Path&gt;" d="M23.5,10.5c0-5-5.15-9-11.5-9S.5,5.53.5,10.5c0,4.43,4.09,8.1,9.47,8.85h0c2.93.46,1.56,3.14,1.56,3.14l7.75-5h0A8.42,8.42,0,0,0,23.5,10.5Z" style="fill:none;stroke:#303c42;stroke-linecap:round;stroke-linejoin:round"/><polyline id="_Path_2" data-name="&lt;Path&gt;" points="5.5 8.5 5.5 13.5 8 13.5" style="fill:none;stroke:#303c42;stroke-linecap:round;stroke-linejoin:round"/><line id="_Path_3" data-name="&lt;Path&gt;" x1="9.5" y1="8.5" x2="9.5" y2="13.5" style="fill:none;stroke:#303c42;stroke-linecap:round;stroke-linejoin:round"/><polyline id="_Path_4" data-name="&lt;Path&gt;" points="11.5 13.5 11.5 8.5 14.5 13.5 14.5 8.5" style="fill:none;stroke:#303c42;stroke-linecap:round;stroke-linejoin:round"/><polyline id="_Path_5" data-name="&lt;Path&gt;" points="19 8.5 16.5 8.5 16.5 13.5 19 13.5" style="fill:none;stroke:#303c42;stroke-linecap:round;stroke-linejoin:round"/><line id="_Path_6" data-name="&lt;Path&gt;" x1="16.5" y1="11" x2="19" y2="11" style="fill:none;stroke:#303c42;stroke-linecap:round;stroke-linejoin:round"/></g></g>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="social; media; social media; logo; link" dc:description="social; media; social media; logo; link" dc:publisher="Iconscout" dc:date="2017-02-21" dc:format="image/svg+xml" dc:language="en">
+				<dc:creator>
+					<rdf:Bag>
+						<rdf:li>Alpár - Etele Méder</rdf:li>
+					</rdf:Bag>
+				</dc:creator>
+			</rdf:Description>
+		</rdf:RDF>
+    </metadata></svg>

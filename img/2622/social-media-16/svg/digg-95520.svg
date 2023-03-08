@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>Digg</title><g id="Digg"><g id="_Group_" data-name="&lt;Group&gt;"><polyline id="_Path_" data-name="&lt;Path&gt;" points="8.5 8.5 8.5 13.5 6.5 13.5 6.5 10.5 8.5 10.5" style="fill:none;stroke:#303c42;stroke-linecap:round;stroke-linejoin:round"/><polyline id="_Path_2" data-name="&lt;Path&gt;" points="14.5 13.5 12.5 13.5 12.5 10.5 14.5 10.5 14.5 15.5 12.5 15.5" style="fill:none;stroke:#303c42;stroke-linecap:round;stroke-linejoin:round"/><polyline id="_Path_3" data-name="&lt;Path&gt;" points="18.5 13.5 16.5 13.5 16.5 10.5 18.5 10.5 18.5 15.5 16.5 15.5" style="fill:none;stroke:#303c42;stroke-linecap:round;stroke-linejoin:round"/><line id="_Path_4" data-name="&lt;Path&gt;" x1="10.5" y1="13.5" x2="10.5" y2="10.5" style="fill:none;stroke:#303c42;stroke-linecap:round;stroke-linejoin:round"/><circle id="_Path_5" data-name="&lt;Path&gt;" cx="10.5" cy="9" r="0.5" style="fill:#303c42"/><rect id="_Rectangle_" data-name="&lt;Rectangle&gt;" x="1.5" y="1.5" width="21" height="21" rx="1.5" ry="1.5" style="fill:none;stroke:#303c42;stroke-linecap:round;stroke-linejoin:round"/></g></g>
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="social; media; social media; logo; digg" dc:description="social; media; social media; logo; digg" dc:publisher="Iconscout" dc:date="2017-02-21" dc:format="image/svg+xml" dc:language="en">
+				<dc:creator>
+					<rdf:Bag>
+						<rdf:li>Alpár - Etele Méder</rdf:li>
+					</rdf:Bag>
+				</dc:creator>
+			</rdf:Description>
+		</rdf:RDF>
+    </metadata></svg>
