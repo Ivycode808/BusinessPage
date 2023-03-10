@@ -765,14 +765,14 @@ main {
     font-weight: 500;
     font-style: italic;
 }
-@media only and screen(max-width: 600px){
+@media only screen and(max-width: 600px){
  #testimonals {
   padding: 50p 10px;
   grid-template-columns: repeat(2, 1fr);
   grid-gap: 15px;
  }
 }
-@media only and screen(max-width: 400px) {
+@media only screen and(max-width: 400px) {
  
  #testimonals .testimonals-row {
   grid-template-columns: repeat(1, 1fr);
