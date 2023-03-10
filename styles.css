@@ -774,7 +774,7 @@ main {
 }
 @media only and screen(max-width: 400px) {
  
- #tesimonals .testimonals-row {
+ #testimonals .testimonals-row {
   grid-template-columns: repeat(1, 1fr);
   grid-gap: 15px;
  }
