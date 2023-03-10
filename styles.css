@@ -307,7 +307,8 @@ main {
     #about .divider ~ p{
         font-size: 14px;
         letter-spacing: 0px;
-        text-align: justify;   
+        text-align: justify;
+        line-height: 1.5;
     }
     #about .about-col {
         flex-direction: column;
@@ -763,6 +764,20 @@ main {
     font-size: 16px;
     font-weight: 500;
     font-style: italic;
+}
+@media only and screen(max-width: 600px){
+ #testimonals {
+  padding: 50p 10px;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 15px;
+ }
+}
+@media only and screen(max-width: 400px) {
+ 
+ #tesimonals .testimonals-row {
+  grid-template-columns: repeat(1, 1fr);
+  grid-gap: 15px;
+ }
 }
 /*--------Contact-=-------------*/
 #contact {
